@@ -19,8 +19,6 @@ C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe simple-random-user-agent.c
 simple-random-user-agent.exe
 ```
 
-*csc
-
 Output
 
 ```
